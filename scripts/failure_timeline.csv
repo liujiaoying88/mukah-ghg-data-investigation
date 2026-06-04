@@ -1,0 +1,6 @@
+timestamp,file_id,status,diagnostic_value,co2,h2o,signal_strength,wind_status,interpretation
+2021-09-28 08:00,2021-09-28T080000_AIU-1552,normal,255,valid,valid,valid,valid,last confirmed normal file
+2021-09-28 09:13:58,2021-09-28T091358_AIU-1552,abnormal,16,0,0,0,invalid,first confirmed abnormal file
+2021-09-28 09:30,2021-09-28T093000_AIU-1552,abnormal,16,0,0,0,invalid,abnormal condition persisted
+2021-09-29 00:00,2021-09-29T000000_AIU-1552,abnormal,16,0,0,0,invalid,abnormal condition persisted
+2021-12-01 12:00,2021-12-01T120000_AIU-1552,abnormal,16,0,0,0,invalid,abnormal condition persisted
